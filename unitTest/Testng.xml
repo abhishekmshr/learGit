@@ -1,0 +1,7 @@
+<suite name="Selenium Test">
+<test name="first test">
+<classes>
+<class name="seleniumTest.UIT"/>
+</classes>
+</test>
+</suite>
